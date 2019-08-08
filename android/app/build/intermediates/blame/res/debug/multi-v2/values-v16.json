@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/max/OpenClassrooms/ReactNative-course/projet-final/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/max/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/35883da007be822e56cf9dd79ebdb2f3/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/max/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7479ccb27629363dd296573b6bb62125/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
